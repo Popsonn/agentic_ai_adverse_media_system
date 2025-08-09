@@ -1,0 +1,11 @@
+langgraph==0.0.40
+tavily-python==0.7.10
+requests
+beautifulsoup4
+sentence-transformers
+scikit-learn
+numpy
+dspy
+python-dotenv
+transformers
+torch
